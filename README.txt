@@ -37,6 +37,8 @@ by their frequency:
 
 3. Data
 
+Unfortunately, I cannot share the data.
+
 The data folder contains a collection of pdf documents of the newspaper 'La Quotidiana', written in
 Romansh, which I converted to a text document in order to count how often each word appears. The
 translation that appears the most, is considered to be the most common one. I did the conversion with
